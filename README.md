@@ -35,5 +35,19 @@ We agreed to research some NGOs to build a website for one
 Our next meeting is Thursday 23rd June, 2022 at 7pm
 
 
-Meeting on Thursday the 23rd June was to discuss what project we will do
-We were undecided and will meet again for discussion.
+Meeting on Thursday the 23rd June was to discuss project definition
+
+We named out group: BKDS CONSULTING
+(originally ACT Group8)
+A non profit website (like Amazon) but for donations
+Registry to the site of services to provide or give
+Service by Category
+Eg. Donate food from restaurants to Food Banks
+    Delivery to locations
+    Match non profit organizations
+    Volunteers
+    Other donations
+    
+ What to do next is define About Page as Website as Prototype
+ 
+    
