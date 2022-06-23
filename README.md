@@ -35,3 +35,5 @@ We agreed to research some NGOs to build a website for one
 Our next meeting is Thursday 23rd June, 2022 at 7pm
 
 
+Meeting on Thursday the 23rd June was to discuss what project we will do
+We were undecided and will meet again for discussion.
