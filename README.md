@@ -22,7 +22,6 @@ In attendance was:
 
 Aura Johnson (Mentor)
 Kristopher Lucas (Coding)
-Dinah Bondzie (Data)
 Burnetta Wood (Data)
 Danielle Gordon (Digital Marketing)
 Sahra Taghipour (UXUI)
@@ -51,3 +50,10 @@ Eg. Donate food from restaurants to Food Banks
  What to do next is define About Page as Website as Prototype
  
     
+We had our 2nd meeting on Thursday the 23rd of June 2022
+In attendance was:
+
+Kristopher Lucas (Coding)
+Burnetta Wood (Data)
+Sahra Taghipour (UXUI)
+Dinah Bondzie (Data)
