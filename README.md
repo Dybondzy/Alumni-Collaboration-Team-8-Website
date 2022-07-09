@@ -60,3 +60,6 @@ Kristopher Lucas (Coding),
 Burnetta Wood (Data),
 Sahra Taghipour (UXUI),
 Dinah Bondzie (Data)
+
+
+Our 3rd meeting was scheduled for July 29, but no one showed up.
